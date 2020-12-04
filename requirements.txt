@@ -4,5 +4,4 @@ pandas
 tensorflow
 gunicorn
 keras
-numpy
 
